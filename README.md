@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Cheran 👋
 
-<!--
-**CheranS-16/CheranS-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Java Backend & Cloud (AWS) Developer  
+💡 Strong knowledge in Java backend development with Spring Boot & Hibernate  
+☁️ Interested in building scalable backend systems and deploying them on AWS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 B.Tech Information Technology Graduate
+- ☕ Strong understanding of Java, OOP, and backend development
+- 🌱 Hands-on with Spring Boot & Hibernate frameworks
+- 🔌 Familiar with REST API development and backend architecture
+- ☁️ Learning AWS cloud fundamentals (IAM, EC2, S3, VPC basics)
+- 🐧 Basic Linux knowledge for system and server usage
+- 🎯 Goal: Become a Java Backend / Cloud Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+- Java 
+- SQL
+
+### 🌐 Backend Development
+- Spring Boot
+- Hibernate
+- REST APIs
+- OOP & Design Principles
+
+### ☁️ Cloud & DevOps
+- AWS (IAM, EC2, S3, VPC basics)
+- Linux (basic commands & usage)
+
+### 🧰 Tools
+- Eclipse IDE
+- Postman (API testing)
+- Git & GitHub
+- VS Code
+
+---
+
+## 📘 Currently Focusing On
+- Strengthening Java backend with Spring Boot
+- Hibernate ORM concepts
+- AWS cloud fundamentals
+- System design basics (beginner level)
+- Problem-solving & DSA basics
+
+---
+
+## 🎯 Goals
+- Become a Java Backend / Cloud Engineer
+- Build real-world scalable backend applications
+- Improve deployment and cloud skills using AWS
+- Crack backend / DevOps-friendly roles
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/cheran-s/
+- Email: cheransaravanan29@gmail.com
+
+---
+
+⭐ “Building strong Knowledge step by step toward real-world engineering.”
